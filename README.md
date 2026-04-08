@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently working on my programming logics.<br>i already worked on nodejs expressjs postgressql react js tailwind css<br>but i love to work on backend rather than frontend<br>
+i am currently working on my programming logics.<br>i already worked on nodejs expressjs postgressql react js tailwind css<br>but i love to work on backend rather than frontend.<br>
 
 
 ## 🌐 Socials:
